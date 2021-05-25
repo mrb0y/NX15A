@@ -5,8 +5,8 @@ http://robotakao.jp/NX15/e/index.html
 These STL files are NX15 quadruped robot models.
 This robot is under development. If you use these, please do so at your own risk.
 
-d4.5 holes are for M3 insart nut.
-d3 holes are for M2 insart nut.
+d4.5 holes are for M3 insert nut.
+d3 holes are for M2 insert nut.
 d1.8 holes are for M2 tapping screw.
 
 Body_Cover01.stl 1
